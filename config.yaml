@@ -32,7 +32,7 @@ monitors:
 #     expectStatus: 200
 #     linkable: true # allows the title to be a link, default=true
 
-  - id: 主站
+  - id: www-qinxuegu-com
     name: www.qinxuegu.com
     url: 'https://www.qinxuegu.com/'
     method: GET
