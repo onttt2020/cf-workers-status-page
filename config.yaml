@@ -1,5 +1,5 @@
 settings:
-  title: 'Status Page'
+  title: '服务监控'
   url: 'https://cf-workers-status-page-production.onttt.workers.dev/' # used for Slack messages
   logo: logo-192x192.png # image in ./public/ folder
   daysInHistogram: 90 # number of days you want to display in histogram
